@@ -1,4 +1,5 @@
-package com.lti.HLD_LLD.LLDDesigns.CreationalPattern.FactoryPattern;
+package LLDDesigns.CreationalPattern.FactoryPattern;
+
 
 public class Circle implements Shape{
     @Override
